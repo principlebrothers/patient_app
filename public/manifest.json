@@ -1,0 +1,25 @@
+{
+  "name": "Yarysa Patient's App",
+  "short_name": "Yarysa",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#030e2b",
+  "background_color": "#030e2b",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "yarysaLogo_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "yarysaLogo_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
